@@ -35,7 +35,7 @@ chomp($choice);
 $choice = uc($choice);
 
 if($choice eq "S"){
-	my $diretorio = "c:/users/sedis/desktop/";
+	my $diretorio = "c:/users/sete/desktop/";
 	print("Nome_arquivo: ");
 	my $arquivo = <>;
 	chomp($arquivo);
